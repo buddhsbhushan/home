@@ -26,6 +26,10 @@ p {
   text-align: center;
 }
 
+a {
+  color: #74B99F;
+}
+
 main {
   background-color: #2C3845;
 }
